@@ -9,7 +9,7 @@ TODO
 
 
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
+\t\t\t![Profile Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
 
 
 
