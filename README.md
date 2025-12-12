@@ -31,9 +31,8 @@
 ---
 ## Contact Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)][github]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][linkedin]
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)][discord]
-[github]: https://github.com/Teo209
-[linkedin]: https://www.linkedin.com/in/YOUR-LINKEDIN
-[discord]: https://discord.com/users/YOUR-DISCORD-ID
+## Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Teo209)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/teo082080)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
