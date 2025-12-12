@@ -9,11 +9,11 @@ TODO
 
 
 -->
-							![Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
+		![Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
 
 
 My best programming languaces are
-- ![Python](./python-logo.png ) [(certificate)](https://verify.openedg.org/?id=DNF6.q2F6.iRX2)
+- Python [(certificate)](https://verify.openedg.org/?id=DNF6.q2F6.iRX2)
 - C++
 
 I want to learn and get better with
