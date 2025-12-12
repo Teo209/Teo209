@@ -26,8 +26,7 @@
 - **Keep refining my understanding of software design, algorithms, and systems architecture**  
 
 ---
-## Thanks for stopping by!
-
+## Thanks for stopping by!  
 ---
 ## Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Teo209)
