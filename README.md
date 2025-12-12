@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen" />
@@ -33,15 +33,6 @@ I am focused on strengthening my frontend fundamentals and understanding network
 - Build a compiled programming language from scratch  
 - Participate in programming contests and improve competitive problem-solving skills  
 - Keep refining my understanding of software design, algorithms, and systems architecture  
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teo209&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teo209&layout=compact&theme=transparent" height="150"/>
-</p>
 
 ---
 
