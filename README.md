@@ -9,7 +9,7 @@ TODO
 
 
 -->
-		![Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
+		![](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
 
 
 My best programming languaces are
