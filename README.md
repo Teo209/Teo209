@@ -1,16 +1,27 @@
 ## Hi there 👋
 
 <!--
-**Teo209/Teo209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Teo209/Teo209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
+TODO
+	-
+	-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+							![Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
+
+
+My best programming languaces are
+- ![Python](./python-logo.png ) [(certificate)](https://verify.openedg.org/?id=DNF6.q2F6.iRX2)
+- C++
+
+I want to learn and get better with
+- CSS
+- HTML
+- JavaScript
+- Networking
+
+Goals
+- Build a Compiled Programming languace
+- Participate in programming contests
