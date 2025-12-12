@@ -9,7 +9,9 @@ TODO
 
 
 -->
-\t\t\t![Profile Views](https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Teo209&label=VIEWS&style=flat-square&color=brightgreen" />
+</p>
 
 
 
