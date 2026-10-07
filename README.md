@@ -11,11 +11,16 @@
 ##### I enjoy working close to the system and building efficient, readable, clean, and maintainable codebases.
 
 ---
+## Curently working on:
+##### I am now focusing on programming in C++ for school, but i am working in paralel on Python. I started an interpreted programming language in Python (because it's easier and I learned the way they work), planning on making a compiled one in C++!
+
+
+---
 
 ## Currently Learning:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-0078D4?logo=cloudflare&logoColor=white)
 
-##### I am focused on strengthening my frontend fundamentals and understanding networking concepts to become a more well-rounded full stack developer.
+##### I am focused on strengthening my frontend fundamentals and understanding networking concepts to become a more well-rounded full stack developer. Made a website: frontend + backend
 
 ---
 
